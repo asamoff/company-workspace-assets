@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "name": "Company Workspace Avatar Collection",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/asamoff/company-workspace-assets@main/avatars/",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Все"
+    },
+    {
+      "id": "minimal",
+      "name": "Minimal"
+    },
+    {
+      "id": "robots",
+      "name": "Robots"
+    },
+    {
+      "id": "street",
+      "name": "Street"
+    },
+    {
+      "id": "anime",
+      "name": "Anime"
+    },
+    {
+      "id": "dark",
+      "name": "Dark"
+    },
+    {
+      "id": "characters",
+      "name": "Characters"
+    }
+  ],
+  "avatars": []
+}
