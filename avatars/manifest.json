@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "Company Workspace Avatar Collection",
   "cdnBase": "https://cdn.jsdelivr.net/gh/asamoff/company-workspace-assets@main/avatars/",
   "categories": [
@@ -32,5 +32,264 @@
       "name": "Characters"
     }
   ],
-  "avatars": []
+  "avatars": [
+    {
+      "id": "avatar-001",
+      "name": "Avatar 001",
+      "file": "00d133080d249d8ddf22419a59551a0d.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-002",
+      "name": "Avatar 002",
+      "file": "02ee241aa05102c7bd3711434a1f2161.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-003",
+      "name": "Avatar 003",
+      "file": "071d1c15e8608ef5f258ee3328c48344.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-004",
+      "name": "Avatar 004",
+      "file": "07c3ed0d7556d1f48a6c825f524a1dcd.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-005",
+      "name": "Avatar 005",
+      "file": "082c035fa8ae648f09df803ead591657.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-006",
+      "name": "Avatar 006",
+      "file": "1f034a6f0129ec98151ac03deba3f151.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-007",
+      "name": "Avatar 007",
+      "file": "2336edc6054a7afc4e7f39203c993c9c.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-008",
+      "name": "Avatar 008",
+      "file": "2c933d3104a2de9f0a0570f43a25a68b.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-009",
+      "name": "Avatar 009",
+      "file": "3506f1cda0c95f9e872a294210c37ddc.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-010",
+      "name": "Avatar 010",
+      "file": "3c0ef10ad9d1f2efb3739adc4f586c2f.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-011",
+      "name": "Avatar 011",
+      "file": "3ceb0628d98cbd250ae5c70b3068c968.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-012",
+      "name": "Avatar 012",
+      "file": "4705193e4de352fa58ab51f7da6bf887.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-013",
+      "name": "Avatar 013",
+      "file": "4e5099ace66006a9497b41465ba17b56.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-014",
+      "name": "Avatar 014",
+      "file": "5cea07682b20d40eb3fc7a935c2b6ef2.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-015",
+      "name": "Avatar 015",
+      "file": "61b2c72e5fd274b6708bb67be858b25f.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-016",
+      "name": "Avatar 016",
+      "file": "64ee419cb2e3c6f7cad685ea7b407762.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-017",
+      "name": "Avatar 017",
+      "file": "6640c7b43d46d4f1c1be8d2ce75e4c83.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-018",
+      "name": "Avatar 018",
+      "file": "675581efb9df00a2919608ebc3485254.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-019",
+      "name": "Avatar 019",
+      "file": "67894ebae4f5b794e239c4fdead49fdb.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-020",
+      "name": "Avatar 020",
+      "file": "6816ba79c5f1541e96af0078c58d6d88.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-021",
+      "name": "Avatar 021",
+      "file": "79ff0e4dd1a2fecb8a32ced96ef2ac0e.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-022",
+      "name": "Avatar 022",
+      "file": "7c4f6f5084e9082ff1122a10b591c77b.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-023",
+      "name": "Avatar 023",
+      "file": "7dccdfe0bb5eb97c3da0d878715361d0.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-024",
+      "name": "Avatar 024",
+      "file": "9277b82ab84e67ed4613ba9fe46eab6a.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-025",
+      "name": "Avatar 025",
+      "file": "9c63e34998313553bae1607c643b663e.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-026",
+      "name": "Avatar 026",
+      "file": "9ef56ceaf17835834e931cff934b2acc.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-027",
+      "name": "Avatar 027",
+      "file": "a292cd3616fa6f4ef37b038fc678667f.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-028",
+      "name": "Avatar 028",
+      "file": "a7178c357d1a6dbd01ee7a580f77a103.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-029",
+      "name": "Avatar 029",
+      "file": "b28cc01e2a6c93d2b19292dd07e36c6b.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-030",
+      "name": "Avatar 030",
+      "file": "b5850f0cbab633828f112e028ddc2caf.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-031",
+      "name": "Avatar 031",
+      "file": "b59dd98c23552a9644864f999bed4742.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-032",
+      "name": "Avatar 032",
+      "file": "bc0a66e634c4528ed7855f97ce997286.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-033",
+      "name": "Avatar 033",
+      "file": "cd0b1a59a6d2a089a522ac6040ba11f5.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-034",
+      "name": "Avatar 034",
+      "file": "d997f10ce69f14ba4cdf6599d375d350.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-035",
+      "name": "Avatar 035",
+      "file": "d9a742e26ded5e75b029d5f2351f98c3.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-036",
+      "name": "Avatar 036",
+      "file": "dff92264f890808de5e262a94ef7e988.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-037",
+      "name": "Avatar 037",
+      "file": "e3f1ccee1b9f4e5b372b893f84ca01cb.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-038",
+      "name": "Avatar 038",
+      "file": "e469a0556c6093b250d08f1498f42402.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-039",
+      "name": "Avatar 039",
+      "file": "e8282c203168f4cc46d882a7b7291fb1.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-040",
+      "name": "Avatar 040",
+      "file": "edc75f80493e48642ecb77031a3b6d10.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-041",
+      "name": "Avatar 041",
+      "file": "f34d6a9f9815ece8f349daa942044bcc.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-042",
+      "name": "Avatar 042",
+      "file": "f6e6bbe4eaa5b7440ce2d0510950e1c2.jpg",
+      "category": "all"
+    },
+    {
+      "id": "avatar-043",
+      "name": "Avatar 043",
+      "file": "f9e88bb4bf0c952334c95ee3be68daca.jpg",
+      "category": "all"
+    }
+  ]
 }
